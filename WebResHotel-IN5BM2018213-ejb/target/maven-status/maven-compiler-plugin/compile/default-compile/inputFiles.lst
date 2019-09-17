@@ -1,0 +1,17 @@
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/ReservaFacade.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/entities/Registrohuespedes.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/NewSessionBean.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/PagoFacade.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/RegistrohuespedesFacadeLocal.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/AbstractFacade.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/PagoFacadeLocal.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/entities/Tipohabitacion.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/ClienteFacadeLocal.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/ClienteFacade.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/entities/Cliente.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/entities/Reserva.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/ReservaFacadeLocal.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/RegistrohuespedesFacade.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/entities/Pago.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/TipohabitacionFacade.java
+/Users/gianluca/NetBeansProjects/WebResHotel-IN5BM2018213/WebResHotel-IN5BM2018213-ejb/src/main/java/com/GianlucaMassa/sessionsbeans/TipohabitacionFacadeLocal.java
